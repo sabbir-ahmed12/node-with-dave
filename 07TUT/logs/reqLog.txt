@@ -1,16 +1,20 @@
-20221129	21:55:01	5ad57616-70d8-41e8-9186-a049fac6213c	/new-page.html	GET
-20221129	21:55:01	cc1916fc-8005-417d-9bb7-9655e103a181	/css/style.css	GET
-20221129	21:55:01	194bc443-0d12-45e0-a22d-e8a8ba26f137	/img/img1.jpg	GET
-20221129	21:55:01	5dca9f2d-081c-46f5-9b64-20ba446276ca	/favicon.ico	GET
-20221129	21:55:37	ef2202f8-18e5-406c-b466-42153ac33dce	/	GET
-20221129	21:55:37	aeca0698-45f0-4a6d-acad-d843ade41458	/css/style.css	GET
-20221129	21:55:51	d7d1d88f-29f6-4510-9ec5-c4699f0fd432	/	GET
-20221129	21:55:51	e8ff88ab-85b2-4676-97df-1527fdf2866e	/css/style.css	GET
-20221129	21:56:13	f399ec6e-319a-4a6d-8390-d66baf65f7c1	/old	GET
-20221129	21:56:13	bf7a7bc3-edbe-4749-ac42-f4b1abef2bd5	/css/style.css	GET
-20221129	22:06:40	a599da83-2370-4d98-bb4c-2003c43e919d	/new-page.html	GET
-20221129	22:06:40	0ca93ba3-153c-4e28-b854-21fe122caf04	/css/style.css	GET
-20221129	22:06:40	8d0e7a67-5731-4a13-93d8-70dab9b8bda9	/img/img1.jpg	GET
-20221129	22:06:54	2f1201ab-75f1-46eb-a4b6-4053cb97530b	/new%20new	GET
-20221129	22:06:54	594c05be-e527-46c6-b1e1-0f2546aed595	/css/style.css	GET
-20221129	22:11:30	1703ce99-48fb-475d-ba74-70f66d2f45ad	/index.html	GET
+20221130	19:07:05	a5e50718-c686-4dfa-9dfb-b2ca0130b60f	GET	undefined	/index.html
+20221130	19:07:05	74a764c1-57b0-4bc7-8114-cbd69f6dd844	GET	undefined	/css/style.css
+20221130	19:10:14	2a1e17c6-11f6-4eed-b2b6-9b568483c169	GET	undefined	/new-page.html
+20221130	19:10:14	050f47d8-1122-4ea9-8cec-3eb5efbd3493	GET	undefined	/css/style.css
+20221130	19:10:14	b1ad8c59-4952-4f1b-9463-bc5de002c404	GET	undefined	/img/img1.jpg
+20221130	19:12:06	d6ee0862-2b42-4d63-b794-ac19a26edbbb	OPTIONS	https://www.google.com	/
+20221130	19:12:06	519896ae-194c-4e33-a950-ecd4783f08b9	GET	https://www.google.com	/
+20221130	19:14:33	e5e4903f-f6a0-42c8-a12c-7ff48c3dda8a	OPTIONS	https://www.google.com	/
+20221130	19:14:33	302d46b3-1611-4201-8dbc-6d1afd41e170	GET	https://www.google.com	/
+20221201	10:32:15	c74c6fae-b636-4c56-b7b9-2dc6abffc8bb	OPTIONS	https://www.google.com	/
+20221201	10:32:15	7029040e-66ad-43c4-8ffb-81cb377079d4	GET	https://www.google.com	/
+20221201	10:32:29	62bd287b-b783-43f6-b7bc-18a00240e46c	OPTIONS	https://www.google.com	/
+20221201	10:32:29	621c071a-c0c1-4014-b31e-35d5e18d5b27	GET	https://www.google.com	/
+20221201	10:32:49	0681f2f9-8f6e-463f-a96f-b65dbd9c70a3	OPTIONS	https://www.google.com	/
+20221201	10:32:49	2fbfdc8c-3092-4d23-b492-238370b67e42	GET	https://www.google.com	/
+20221201	10:45:54	9f51f95c-4f95-4600-acf0-efbee9f7ae12	GET	undefined	/
+20221201	10:45:54	c63b239c-1ba4-4876-9258-3b999072ff7a	GET	undefined	/favicon.ico
+20221201	10:48:23	9991d8dc-88bf-46db-9d21-cd1a75827fed	GET	undefined	/dev
+20221201	10:48:23	46e77358-3346-46d5-9aed-933b6097fde5	GET	undefined	/css/style.css
+20221201	10:48:23	dfc4f294-5859-47da-b52d-9a0fabe22a5f	GET	undefined	/favicon.ico
